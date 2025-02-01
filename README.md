@@ -18,3 +18,4 @@ Tweak margin and padding
 Improve error handling
 Improve logging
 Fix bug in feature X
+Update dependencies
