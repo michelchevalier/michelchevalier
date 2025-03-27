@@ -26,3 +26,4 @@ Improve error handling
 Rewrite function Y
 Polish UI layout
 Update dependencies
+Fix broken link
