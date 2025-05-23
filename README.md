@@ -19,3 +19,4 @@ Improve error handling
 Improve logging
 Fix bug in feature X
 Update dependencies
+Add test cases
