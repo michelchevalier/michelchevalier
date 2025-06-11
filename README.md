@@ -24,3 +24,4 @@ Improve performance
 Fix broken link
 Improve error handling
 Rewrite function Y
+Polish UI layout
